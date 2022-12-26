@@ -90,3 +90,8 @@
   },
   "packageManager": "yarn@3.2.1"
 }
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
